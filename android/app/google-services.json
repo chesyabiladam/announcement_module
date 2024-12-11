@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635139912943",
+    "project_id": "pmss-d20d7",
+    "storage_bucket": "pmss-d20d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635139912943:android:8a0faf031b18a2f21c171a",
+        "android_client_info": {
+          "package_name": "com.example.pmss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuuHjFynkQYgkjC9Cn9b_dym9BuoGARbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
